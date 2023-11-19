@@ -1,1 +1,18 @@
+# Arquivos Python
+*.pyc
+*.pyo
+__pycache__
+
+# Ambiente virtual / cache
 venv/
+.venv/
+.idea/
+
+# Arquivos de configuração
+.vscode/
+.DS_Store
+
+# Outros
+__pycache__/
+.pytest_cache/
+
